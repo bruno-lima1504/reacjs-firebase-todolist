@@ -1,4 +1,4 @@
-# App Controle Financeiro
+# App To-do List
 
 ## Resume
 To-do application developed to apply the knowledge acquired in firebase, such as registration and user access and use of NoSQL database.
